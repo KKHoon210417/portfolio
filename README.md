@@ -11,7 +11,7 @@ E-mail : zozo1591@naver.com  / Github : https://github.com/KKHoon210417
 ## 🔥Projects
 
 
-### 1. [My Help Menu](https://github.com/KKHoon210417/help-my-menu)
+### 1. [Help My Menu](https://github.com/KKHoon210417/help-my-menu)
 > 냉장고 속 재료를 기반으로 레시피 추천 서비스(팀 프로젝트)<br>
 > 개발 기간 : 2021.10 ~ 2021.10 (for 2 weeks)<br>
 > 목표 및 성과 : Flask와 pymongo를 이용한 웹서비스 구현
