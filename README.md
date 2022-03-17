@@ -29,7 +29,7 @@ E-mail : zozo1591@naver.com  / Github : https://github.com/KKHoon210417
 > 목표 및 성과 : Spring Boot와 MySQL를 이용한 웹서비스 구현
 > 
 > 기술 스택:<br>
-> Java / Spring Boot / Spring Security / MySQL / nGrinder / Spring Data JPA / Spring Rest Docs / Github / Javascript / CSS / HTML
+> Java / Spring Boot / MySQL / nGrinder / Spring Data JPA / Github / Javascript / CSS / HTML
 > 
 > [프로젝트 상세](https://github.com/KKHoon210417/backend) 설명 참고(Backend)<br>
 > [프로젝트 상세](https://github.com/KKHoon210417/frontend) 설명 참고(Frontend)
