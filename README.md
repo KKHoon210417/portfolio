@@ -2,7 +2,7 @@
 
 E-mail : zozo1591@naver.com  / Github : https://github.com/KKHoon210417
 
-## 🔥성취감은 나의 원동력
+## 🔥인생에 개발을 더하다
 
 "안녕하세요. **가치를 만드는 백엔드 개발자 김광훈**입니다."<br>
 
@@ -19,7 +19,12 @@ E-mail : zozo1591@naver.com  / Github : https://github.com/KKHoon210417
 > 
 > 기술 스택:<br>
 > Python / Flask / MongoDB / Javascript / CSS / HTML / jQuery / Github
-> 
+>
+> 주요 업무:<br>
+> 1.Flask를 사용해 Restful하게 API를 구현<br>
+> 2.Git을 이용해 프로젝트 Branch와 Issue 관리<br>
+> 3.Boto3를 이용해 AWS S3 버킷에 이미지 저장 구현
+>
 > [프로젝트 상세](https://github.com/KKHoon210417/help-my-menu) 설명 참고
 
 <hr>
@@ -31,6 +36,11 @@ E-mail : zozo1591@naver.com  / Github : https://github.com/KKHoon210417
 > 
 > 기술 스택:<br>
 > Java / Spring Boot / MySQL / nGrinder / Spring Data JPA / Github / Javascript / CSS / HTML
+>
+> 주요 업무:<br>
+> 1.Spring Boot를 사용해서 API를 Restful하게 구현<br>
+> 2.Spring Data JPA를 사용해서 객체지향적으로 CRUD 객체 구현<br>
+> 3.nGrinder를 이용해 게시글 호출 API 성능테스트 구현
 > 
 > [프로젝트 상세](https://github.com/KKHoon210417/backend) 설명 참고(Backend)<br>
 > [프로젝트 상세](https://github.com/KKHoon210417/frontend) 설명 참고(Frontend)
